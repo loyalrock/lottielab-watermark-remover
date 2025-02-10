@@ -1,4 +1,4 @@
-# Lottie Watermark Remover
+# LottieLab Watermark Remover
 
 一个用于移除 Lottie lab JSON 文件中水印图层的 Python 工具。
 
